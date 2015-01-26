@@ -1,4 +1,6 @@
-## dpd-importer
+# dpd-mysql-importer
+
+## WIP fork of dpd-importer. Nothing implemented yet.
 
 Create deployd collections from existing mysql tables.
 
